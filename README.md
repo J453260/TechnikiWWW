@@ -1,2 +1,2 @@
 # TechnikiWWW
-TechnikiWWW
+Do zrobienia: Bootstrap
